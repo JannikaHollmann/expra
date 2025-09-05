@@ -1,5 +1,16 @@
 # Diversity, Equity and Inclusion
 
+## new outline
+- definition of diversity, equity and inclusion
+  - maybe inclusion as one of the human rights?
+- why it is important (here we could just use this text)
+- what can we do?
+  - APA bias free language
+  - interactive materials
+  - initiatives?
+- summary and more resources
+
+
 Let's rip one band-aid off right away: the current scientific and academic system is incredibly flawed and tremendously biased. Unfortunately, most students are not brought into contact with the respective issues during their studies and thus quite often perceive the present inequalities as "normal" and a given. This lead to the proliferation of exceptionally unfair "standards" and practices towards minorities and underrepresented groups. What's needed to combat these things are Universities, Departments, Lecturers, etc. that address these issues, as well as inform and enable students to actively engage in the process towards increasing [Diversity, Equity and Inclusion](https://en.wikipedia.org/wiki/Diversity_(business)) ([#DEI](https://twitter.com/hashtag/DEI?src=hashtag_click)) at all levels. 
 
 You might think: "Why should I care and what does it have to do with me? I just want to study.". Well, even though you might not be (knowingly) affected, someone you know most likely will be and it will take all of us to change this for the better. In order to become aware of the systemic problems and issues others are facing and take corresponding actions, one needs to be able to make informed decisions based on a broad foundation of knowledge and this needs to be enabled asap. 
