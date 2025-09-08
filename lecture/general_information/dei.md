@@ -1,5 +1,49 @@
 # Diversity, Equity and Inclusion
 
+## What does diversity, equity and inclusion mean?
+Good question: these terms are closely related to each other but don't mean the same. But you could say that one can not exist without the others.
+We will define each term following:
+
+### Diversity
+- the presence of different (*diverse*) characteristics like
+  - age
+  - gender
+  - ethnicity
+  - skin color
+  - culture
+  - class
+  - disability
+  - sexual orientation
+  - religion
+  - etc.
+
+ :::{dropdown} Metacognitive Moments :brain:
+:open:
+- Which voices, perspectives or identities are visible in my work space or private live - which are not?
+- How do I react to people with different experiences, values or backgrounds than mine and why?
+- Which implicit biases might influence how I perceive diversity?
+:::
+
+### Equity
+- equity refers to the German term "Chancengleichheit"; meaning that in a diverse society every member should have the same chances independently of his/her characteristics
+
+ :::{dropdown} Metacognitive Moments :brain:
+:open:
+- Do I have access to the same academic resources, mentorship, and networking opportunities as my peers – and is that true for everyone in my cohort?
+- Where do I notice systemic barriers in academia or training that might disadvantage certain groups of students or researchers?
+- Do I sometimes confuse “treating everyone the same” with “ensuring fairness”? How might this distinction play out in university settings or future clinical practice?
+:::
+
+### Inclusion
+- Inclusion finally means to create an environment, where equity and diversity can be lived.
+
+ :::{dropdown} Metacognitive Moments :brain:
+:open:
+- What steps can I take to encourage classmates to share their perspectives without fear of judgment or exclusion?
+- How do I respond when someone is subtly or openly excluded in academic or professional settings?
+- Which everyday behaviors – in language, group discussions, or decision-making – can foster greater inclusion in my academic community?
+:::
+
 ## new outline
 - definition of diversity, equity and inclusion
   - maybe inclusion as one of the human rights?
