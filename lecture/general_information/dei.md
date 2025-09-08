@@ -3,11 +3,14 @@
 ## new outline
 - definition of diversity, equity and inclusion
   - maybe inclusion as one of the human rights?
-- why it is important (here we could just use this text)
-- what can we do?
+- why it is important (here we could just use this text) 
+  - could include statistics on hiring biases, drop-off in gender ratio for women in higher positions in academia -> representation gap -> unconscious bias, foreign students in germany; maybe a german version of this -> https://journals.sagepub.com/doi/10.1177/15413446251335574
+  - positive effects of DEI?
+- what can we do? (Some of these could be covered in the CoC)
   - APA bias free language
   - interactive materials
-  - initiatives?
+    - maybe pick one or two good sources. Ideally related to fostering awareness 
+  - initiatives? (would put those with resources down below)
 - summary and more resources
 
 
