@@ -44,6 +44,15 @@ We will define each term following:
 - Which everyday behaviors – in language, group discussions, or decision-making – can foster greater inclusion in my academic community?
 :::
 
+## Why should I care?
+First, at least *some* things have changed in the last years in academia concerning **diversity, equity and inclusion** like
+- all applications for research fundings in Europe have to report on DEI in their proposed research projects
+- there is a Committee for Gender Balance and Diversity in Research in Norway
+
+But ... have we really achieved equity in Germany?
+Is there really equity when
+- only 17.5 % of executive positions in the top 100 companies in Germany are taken by women (https://www.statista.com/topics/11460/diversity-in-the-workplace-in-germany/#topicOverview)
+- 
 ## new outline
 - definition of diversity, equity and inclusion
   - maybe inclusion as one of the human rights?
