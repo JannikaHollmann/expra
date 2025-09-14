@@ -49,9 +49,10 @@ First, at least *some* things have changed in the last years in academia concern
 - all applications for research fundings in Europe have to report on DEI in their proposed research projects
 - there is a Committee for Gender Balance and Diversity in Research in Norway
 
-But ... have we really achieved equity in Germany?
+But ... have we really achieved equity in Germany? https://his-he.de/publikationen/vielfalt-an-hochschulen/ 
 Is there really equity when
-- only 17.5 % of executive positions in the top 100 companies in Germany are taken by women (https://www.statista.com/topics/11460/diversity-in-the-workplace-in-germany/#topicOverview)
+- 18.4 % of professorships in MINT studies are held by women
+- the focus of diversity in higher academia is sex and social background
 - 
 ## new outline
 - definition of diversity, equity and inclusion
