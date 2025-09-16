@@ -49,11 +49,14 @@ First, at least *some* things have changed in the last years in academia concern
 - all applications for research fundings in Europe have to report on DEI in their proposed research projects
 - there is a Committee for Gender Balance and Diversity in Research in Norway
 
-But ... have we really achieved equity in Germany? https://his-he.de/publikationen/vielfalt-an-hochschulen/ 
+But ... have we really achieved equity in Germany and Psychology? https://his-he.de/publikationen/vielfalt-an-hochschulen/ 
 Is there really equity when
 - 18.4 % of professorships in MINT studies are held by women
 - the focus of diversity in higher academia is sex and social background
-- 
+- Psychology is based on a white eurocentric perspective
+- the subjects race and ethnicity are underrepresented in peer-reviewed psychological publications
+- the majority of psychological knowledge is based on WEIRD populations
+- in psychology BIPOC students are underrepresented
 ## new outline
 - definition of diversity, equity and inclusion
   - maybe inclusion as one of the human rights?
