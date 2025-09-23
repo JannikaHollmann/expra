@@ -57,6 +57,9 @@ Is there really equity when
 - the subjects race and ethnicity are underrepresented in peer-reviewed psychological publications
 - the majority of psychological knowledge is based on WEIRD populations
 - in psychology BIPOC students are underrepresented
+
+Furthermore, you should care, because becoming a psychologist also means to be responsible for promoting human rights like the UN human right for equity.
+
 ## new outline
 - definition of diversity, equity and inclusion
   - maybe inclusion as one of the human rights?
