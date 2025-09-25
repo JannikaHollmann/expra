@@ -95,11 +95,11 @@ A set of videos from the [Southern Regional Education Board](www.SREB.org) focus
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PgOERhmfJj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-A [TED talk](https://www.ted.com/talks), by [Janet Stovall](https://www.ted.com/speakers/janet_stovall) about `How to get serious about diversity and inclusion in the workplace`.
+A [TED talk](https://www.ted.com/talks), by [Janet Stovall](https://www.ted.com/speakers/janet_stovall) about `How to get serious about diversity and inclusion in the workplace`. **find ich gut**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kvdHqS3ryw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-And another [TED talk](https://www.ted.com/talks), this time by [Anthony Jack](https://www.tedxcambridge.com/speaker/anthony-jack/), called `On Diversity: Access Ain’t Inclusion`.
+And another [TED talk](https://www.ted.com/talks), this time by [Anthony Jack](https://www.tedxcambridge.com/speaker/anthony-jack/), called `On Diversity: Access Ain’t Inclusion`. **auch gut**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j7w2Gv7ueOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -113,7 +113,7 @@ A set of presentations about `Queer & Trans Perspectives in Academia` organized 
 
 There is an increasing amount of journal articles that address [#DEI](https://twitter.com/hashtag/DEI?src=hashtag_click) via various approaches. Below you'll find a short list of them, ranging from publications with a rather broad overview character to such that focus on a very specific topic.
 
-[Gender bias in academia: A lifetime problem that needs solutions](https://www.sciencedirect.com/science/article/pii/S0896627321004177)  
+[Gender bias in academia: A lifetime problem that needs solutions](https://www.sciencedirect.com/science/article/pii/S0896627321004177)  👍
 
 [Racial and ethnic imbalance in neuroscience reference lists and intersections with gender](https://www.biorxiv.org/content/10.1101/2020.10.12.336230v1)  
 
@@ -130,7 +130,7 @@ More and more information concerning this important topic is also provided via i
 #### The Intersection of Race and Gender in Science Stratification
 
 A very informative resource that allows to explore "intersectional inequalities" across fields and topics, as well as including data and methods descriptions. 
-
+👍
 <iframe width="560" height="315" src="https://sciencebias.uni.lu/app/ " title="sciencebias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
