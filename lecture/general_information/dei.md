@@ -108,7 +108,8 @@ A set of presentations about `Queer & Trans Perspectives in Academia` organized 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xwsi9v4SSkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
+### Berufsordnung
+https://www.dgps.de/die-dgps/aufgaben-und-ziele/berufsethische-richtlinien/ 
 ### Journal publications
 
 There is an increasing amount of journal articles that address [#DEI](https://twitter.com/hashtag/DEI?src=hashtag_click) via various approaches. Below you'll find a short list of them, ranging from publications with a rather broad overview character to such that focus on a very specific topic.
@@ -130,7 +131,7 @@ More and more information concerning this important topic is also provided via i
 #### The Intersection of Race and Gender in Science Stratification
 
 A very informative resource that allows to explore "intersectional inequalities" across fields and topics, as well as including data and methods descriptions. 
-👍
+
 <iframe width="560" height="315" src="https://sciencebias.uni.lu/app/ " title="sciencebias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
