@@ -134,6 +134,7 @@ A very informative resource that allows to explore "intersectional inequalities"
 
 <iframe width="560" height="315" src="https://sciencebias.uni.lu/app/ " title="sciencebias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+https://implicit.harvard.edu/implicit/
 
 ### other material
 
